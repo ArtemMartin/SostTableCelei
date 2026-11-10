@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class ExcelExample {
-    static final String fileName = "List targets.xlsx";
+    static final String fileName = "List_targets.xlsx";
 
     public static void generateExcel(List<Cel> data) throws IOException {
         // Создаем книгу и лист
